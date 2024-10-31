@@ -1,0 +1,1 @@
+import{c as o,j as e}from"./index-Bkke0nX8.js";import{L as t}from"./Layout-BTYNAK0v.js";const m=o("/")({component:r});function r(){return e.jsx(t,{title:"Home",children:e.jsx("p",{children:"Home Page"})})}export{m as Route};
